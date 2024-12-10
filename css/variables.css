@@ -1,0 +1,22 @@
+:root{
+    --color-1: #ff0000;
+    --color-2: #FFFFFF;
+    --color-3: #000000;
+    --color-4: #FFFFFF;
+}
+@font-face {
+font-family: "WorkSans-Bold";
+src: url(../storage/font/Work_Sans/WorkSans-Bold.ttf);
+}
+@font-face {
+font-family: "WorkSans-Light";
+src: url(../storage/font/Work_Sans/WorkSans-Light.ttf);
+}
+@font-face {
+font-family: "WorkSans-Medium";
+src: url(../storage/font/Work_Sans/WorkSans-Medium.ttf);
+}
+@font-face {
+font-family: "Montserrat-SemiBold";
+src: url(../storage/font/Montserrat/Montserrat-SemiBold.ttf);
+}
