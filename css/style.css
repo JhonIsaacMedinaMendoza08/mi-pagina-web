@@ -77,28 +77,26 @@ body{
 
 .row_3{
     width: 1112px;
-    height: 100px;
+    height: 100px; /*Usado para posicionar mi container donde se va a trabajar este es en relacion al tamano */
     /*background-color: var(--color-3);*/
-    position: absolute;
-    bottom: 35px;
-    left: 120px;
+    position: absolute; /*Usado para posicionar el elemento*/    
+    bottom: 35px; /* Usado para posicionar o elemento en relacion con el final de página */
+    left: 120px; /* Usado para alinear el texto */
 }
 .row_3 {
       .container {
-        display: flex;
-        gap: 50px;
+        display:block; /* usado para que o container sea unn bloque */
       }
-      
       .button {
-
-        background: linear-gradient(to right, #8b8b8b, transparent); /* Gradiente */
-        color: var(--color-2);
-        padding: 29px 30px;
+        display: inline-block; /* usado para que los botones estén uno al lado del otro */
+        background: linear-gradient(to right, #8b8b8b, transparent); /*Difuminado que termina en transparente*/
+        color: var(--color-2); /* Color del texto */
+        padding: 29px 30px; /* Espaciado */
         border-radius: 50px; /* Bordes redondeados */
-        text-align: center;
-        font-size: 24px;
-        font-family: "Montserrat-SemiBold";
-        position: relative;
-        top: 30px;
+        font-size: 24px;    /* usado para el tamano del texto */
+        font-family: "Montserrat-SemiBold"; /* usado para el tipo de letra */
+        position: relative; /* usado para la posicion */
+        top: 30px; 
       }
+
 }
