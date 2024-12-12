@@ -15,8 +15,12 @@
     --color-3: #080C15;
     --color-4: #004cff;
     --color-5: #fbff00;
+<<<<<<< HEAD
     --color-6: hsl(172, 100%, 50%);
 >>>>>>> b0d79ad (feat: :sparkles: Se adiciona el titulo y se hace la maquetación de como se va a realizar)
+=======
+    --color-6: hsl(172, 67%, 27%);
+>>>>>>> fdad64b (feat: :camera_flash: Se adicionan las imagenes)
 }
 @font-face {
 font-family: "Montserrat-ExtraBold";
