@@ -1,26 +1,13 @@
 
 :root{
-<<<<<<< HEAD
-    --color-1: #368533;
-    --color-2: #FFFFFF;
-<<<<<<< HEAD
-
-=======
-    --color-3: #cd292a;
-    --color-4: #004cff;
->>>>>>> 3acb8f9 (feat: :tada: Configuracion inicial de la web)
-=======
-    --color-1: #CD292A;
-    --color-2: #ffffff;
-    --color-3: #080C15;
-    --color-4: #004cff;
-    --color-5: #fbff00;
-<<<<<<< HEAD
-    --color-6: hsl(172, 100%, 50%);
->>>>>>> b0d79ad (feat: :sparkles: Se adiciona el titulo y se hace la maquetación de como se va a realizar)
-=======
-    --color-6: hsl(172, 67%, 27%);
->>>>>>> fdad64b (feat: :camera_flash: Se adicionan las imagenes)
+    :root{
+        --color-1: #CD292A;
+        --color-2: #ffffff;
+        --color-3: #080C15;
+        --color-4: #004cff;
+        --color-5: #fbff00;
+        --color-6: hsl(172, 67%, 27%);
+}
 }
 @font-face {
 font-family: "Montserrat-ExtraBold";

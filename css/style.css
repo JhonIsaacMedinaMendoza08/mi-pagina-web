@@ -6,7 +6,7 @@
     box-sizing: border-box; 
 }
 body{
-    background-color: var(--color-3);
+    background-color: black;
 }
 
 .row_1{
@@ -32,23 +32,24 @@ body{
 .row_1 h1{
     font-size: 64px;
     font-family: "Montserrat-ExtraBold";
-    color: var(--color-2);
+    color: white;
+        
 }
 .row_1 h1 span{
-    color: var(--color-1);
+    color: red;
 }
 
 .row_1 h2{
     font-size: 24px;
     font-family: "Montserrat-Regular";
-    color: var(--color-2);
+    color: white;
 }
 
 .row_1 button {
     font-size: 22px;
     font-family: "Montserrat-Medium";
-    color: var(--color-2);
-    background-color: var(--color-1);
+    color: white;
+    background-color: red;
     width: 280px;
     height: 66px;
     border: 10px;
@@ -61,7 +62,7 @@ body{
 .row_2{
     width: 539px;
     height: 700px;
-    background-color: var(--color-3);
+    background-color: white;
     position: absolute;
     top: 30px;
     right: 250px;
@@ -86,12 +87,12 @@ body{
 }
 .row_3 {
       .container {
-        display:block; /* usado para que o container sea unn bloque */
+        display:block; /* usado para que el container sea un bloque */
       }
       .button {
         display: inline-block; /* usado para que los botones estén uno al lado del otro */
         background: linear-gradient(to right, #8b8b8b, transparent); /*Difuminado que termina en transparente*/
-        color: var(--color-2); /* Color del texto */
+        color: white; /* Color del texto */
         padding: 29px 30px; /* Espaciado */
         border-radius: 50px; /* Bordes redondeados */
         font-size: 24px;    /* usado para el tamano del texto */
