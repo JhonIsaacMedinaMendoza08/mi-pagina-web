@@ -17,6 +17,18 @@ body{
     top: 100px;
     left: 120px;
 }
+
+.row_1 div {
+    width: 100%;
+    margin-top: 20px;
+
+}
+.row_1 div img{
+    width: 100px;
+    position: relative;
+    margin-left: -31px;
+    left: 30px;
+}
 .row_1 h1{
     font-size: 64px;
     font-family: "Montserrat-ExtraBold";
@@ -25,6 +37,7 @@ body{
 .row_1 h1 span{
     color: var(--color-1);
 }
+
 
 
 
