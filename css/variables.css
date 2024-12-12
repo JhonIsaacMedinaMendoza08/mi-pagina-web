@@ -2,7 +2,12 @@
 :root{
     --color-1: #368533;
     --color-2: #FFFFFF;
+<<<<<<< HEAD
 
+=======
+    --color-3: #cd292a;
+    --color-4: #004cff;
+>>>>>>> 3acb8f9 (feat: :tada: Configuracion inicial de la web)
 }
 @font-face {
 font-family: "Montserrat-ExtraBold";
