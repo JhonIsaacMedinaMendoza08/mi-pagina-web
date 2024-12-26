@@ -1,7 +1,7 @@
 
 :root{
     --color-1: #ff0000;
-    --color-2: #FFFFFF;
+    --color-2: rgb(25, 25, 25);
     --color-3: #000000;
     --color-4: #FFFFFF;
 }
@@ -21,3 +21,11 @@ src: url(../storage/font/Montserrat/Montserrat-Medium.ttf);
 font-family: "Montserrat-SemiBold";
 src: url(../storage/font/Montserrat/Montserrat-SemiBold.ttf);
 }
+@font-face {
+font-family: "Montserrat-Thin";
+src: url(../storage/font/Montserrat/Montserrat-Thin.ttf);
+}
+@font-face {
+    font-family: "Montserrat-Light";
+    src: url(../storage/font/Montserrat/Montserrat-Light.ttf);
+    }
