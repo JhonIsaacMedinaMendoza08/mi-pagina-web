@@ -15,20 +15,74 @@
     left: 250px;
 }
 
+
 .container2 {
     width: 500px;
     height: 415px;
-    background-color: var(--color-1);
+    /*background-color: var(--color-1);*/
     position : absolute;
     top: 50px;
     right: 250px;
+}
+.container2 h1{
+    font-size: 68px;
+    color: var(--color-3);
+    text-align: left;
+    font-family: "Lato-Regular";
+}
+.container2 h2{
+    font-size: 28px;
+    color: var(--color-3);
+    text-align: left;
+    font-family: "Lato-Thin";
+    position: absolute;
+    top: 180px;
+    line-height: 38px;
+}
+.container2 button{
+    width: 158px;
+    height: 54px;
+    background-color: #252525;
+    color: var(--color-2);
+    font-size: 20px;
+    font-family: "Lato-Regular";
+    position: absolute;
+    top: 360px;
+    border: none;
+    cursor: pointer;
+    border-radius: 16px;
 }
 
 .container3 {
     width: 500px;
     height: 334px;
-    background-color: var(--color-1);
+    /*background-color: var(--color-1);*/
     position : absolute;
     bottom: 80px;
     right: 250px;
+}
+.container3 h1{
+    font-family: "Lato-Regular";
+    font-size: 32px;
+    color: #252525; 
+    line-height: 40px;
+}
+.container3 h2{
+    font-family: "Lato-Thin";
+    font-size: 24px;
+    color: #252525; 
+    line-height: 40px;
+}
+
+.container3 h3{
+    font-family: "Lato-Regular";
+    font-size: 32px;
+    color: #252525; 
+    line-height: 40px;
+}
+.container3 h4{
+    font-family: "Lato-Thin";
+    font-size: 24px;
+    color: #252525; 
+    line-height: 40px;
 }
