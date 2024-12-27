@@ -6,16 +6,16 @@
     --color-4: #FFFFFF;
 }
 @font-face {
-font-family: "Montserrat-ExtraBold";
-src: url(../storage/font/Montserrat/Montserrat-ExtraBold.ttf);
+font-family: "WorkSans-Bold";
+src: url(../storage/font/Work_Sans/WorkSans-Bold.ttf);
 }
 @font-face {
-font-family: "Montserrat-Regular";
-src: url(../storage/font/Montserrat/Montserrat-Regular.ttf);
+font-family: "WorkSans-Light";
+src: url(../storage/font/Work_Sans/WorkSans-Light.ttf);
 }
 @font-face {
-font-family: "Montserrat-Medium";
-src: url(../storage/font/Montserrat/Montserrat-Medium.ttf);
+font-family: "WorkSans-Medium";
+src: url(../storage/font/Work_Sans/WorkSans-Medium.ttf);
 }
 @font-face {
 font-family: "Montserrat-SemiBold";

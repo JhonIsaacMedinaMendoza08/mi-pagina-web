@@ -4,4 +4,62 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box; 
+    background-color: #AB2706;
+
+}
+.container1 {
+    width: 1440px;
+    height: 926px;
+    background-color: transparent;
+    border: 3px;
+    border-style: solid;
+    position: absolute;
+    left: 225px;
+
+}
+.container2 {
+    width: 656px;
+    height: 861px;
+    background-color: #51ff00;
+    position: absolute;
+    left: 285px;
+    top: 60px;
+
+}
+
+.container3 {
+    width: 487px;
+    height: 674px;
+    /*background-color: #51ff00;*/
+    position: absolute;
+    right: 315px;
+    top: 120px;
+
+}
+.container3 h1 {
+    font-size: 88px;
+    color: #ffffff;
+    font-family: "WorkSans-Bold";
+}
+.container3 h2 {
+    font-size: 24px;
+    color: #ffffff;
+    font-family: "WorkSans-Light";
+    line-height: 32px;
+    position: absolute;
+    top: 440px;
+}
+.container3 button{
+    width: 232px;
+    height: 82px;
+    background-color: #E5B94B;
+    border: none;
+    border-radius: 36px;
+    cursor: pointer;
+    font-size: 32px;
+    font-family: "WorkSans-Medium";
+    position: absolute;
+    bottom: 0px;
+
+
 }
