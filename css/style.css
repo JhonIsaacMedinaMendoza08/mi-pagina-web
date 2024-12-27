@@ -20,39 +20,98 @@
 .container2 {
     width: 531px;
     height: 208px;
-    background-color: #ff0000;
+    /*background-color: #ff0000;*/
     position: absolute;
     top: 70px;
     left: 300px;
-    
+}
+.container2 h1{
+    font-size: 88px;
+    color: #252525;
+    text-align: left;
+    font-family: "Lato-Regular";
 }
 
 .container3 {
     width: 400px;
     height: 549px;
-    background-color: #ff0000;
+    /*background-color: #ff0000;*/
     position: absolute;
     bottom: 70px;
     left: 300px;
-    
 }
+.container3 h1{
+    font-size: 32px;
+    color: #252525;
+    text-align: left;
+    font-family: "Lato-Regular";
+    opacity: 0.7;
+}
+.container3 h2{
+    font-size: 24px;
+    color: #252525;
+    text-align: left;
+    font-family: "Lato-Thin";
+    line-height: 35px;
+}
+.container3 img{
+    position: absolute;
+    bottom: 0px;
+}
+
 
 .container4 {
     width: 400px;
     height: 549px;
-    background-color: #ff0000;
+    /*background-color: #ff0000;*/
     position: absolute;
     bottom: 70px;
-    left: 745px;
-    
+    left: 745px; 
 }
+
+.container4 h1{
+    font-size: 32px;
+    color: #252525;
+    text-align: left;
+    font-family: "Lato-Regular";
+    opacity: 0.7;
+}
+.container4 h2{
+    font-size: 24px;
+    color: #252525;
+    text-align: left;
+    font-family: "Lato-Thin";
+    line-height: 35px;
+}
+.container4 img{
+    position: absolute;
+    bottom: 0px;
+}
+
 
 .container5 {
     width: 400px;
     height: 549px;
-    background-color: #ff0000;
+    /*background-color: #ff0000;*/
     position: absolute;
     bottom: 70px;
     right: 330px;
-    
+}
+.container5 h1{
+    font-size: 32px;
+    color: #252525;
+    text-align: left;
+    font-family: "Lato-Regular";
+    opacity: 0.7;
+}
+.container5 h2{
+    font-size: 24px;
+    color: #252525;
+    text-align: left;
+    font-family: "Lato-Thin";
+    line-height: 35px;
+}
+.container5 img{
+    position: absolute;
+    bottom: 0px;
 }
