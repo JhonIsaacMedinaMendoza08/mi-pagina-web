@@ -5,3 +5,54 @@
     padding: 0;
     box-sizing: border-box; 
 }
+
+.container1 {
+    width: 1440px;
+    height: 954px;
+    background-color: transparent;
+    border: 3px;
+    border-style: solid;
+    position: absolute;
+    left: 225px;
+
+}
+
+.container2 {
+    width: 531px;
+    height: 208px;
+    background-color: #ff0000;
+    position: absolute;
+    top: 70px;
+    left: 300px;
+    
+}
+
+.container3 {
+    width: 400px;
+    height: 549px;
+    background-color: #ff0000;
+    position: absolute;
+    bottom: 70px;
+    left: 300px;
+    
+}
+
+.container4 {
+    width: 400px;
+    height: 549px;
+    background-color: #ff0000;
+    position: absolute;
+    bottom: 70px;
+    left: 745px;
+    
+}
+
+.container5 {
+    width: 400px;
+    height: 549px;
+    background-color: #ff0000;
+    position: absolute;
+    bottom: 70px;
+    right: 330px;
+    
+}
