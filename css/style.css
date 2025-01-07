@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box; 
-    /*background-color: #AB2706;*/
+    background-color: #232323;
 
 }
 
@@ -21,16 +21,50 @@
 .container2{
     width: 449px;
     height: 582px;
-    background-color: #00ffff;
+    /*background-color: #00ffff;*/
     position: absolute;
     left: 350px;
     top: 160px;
+}
+.container2 h1{
+    font-size: 72px;
+    font-family: "Poppins-Bold";
+}
+.color1 {
+    color: #fec3c7;
+}
+.color2 {
+    color: #9ad7f3;
+}
+.color3 {
+    color: #6bdfda;
+}
+.container2 h2{
+    font-size: 24px;
+    font-family: "Poppins-Regular";
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 90px;
+
+}
+.container2 button {
+    width: 182px;
+    height: 66px;
+    background-color: #FFFFFF;
+    border: none;
+    font-size: 24px;
+    font-family: "Poppins-Regular";
+    color: #000000;
+    cursor: pointer;
+    border-radius: 36px;
+    position: absolute;
+    bottom: 0px;
 }
 
 .container3{
     width: 742px;
     height: 792px;
-    background-color: #00ffff;
+    /*background-color: #00ffff;*/
     position: absolute;
     right: 320px;
     top: 65px;
@@ -39,16 +73,19 @@
 .container4{
     width: 172px;
     height: 792px;
-    background-color: #ff0000;
+    /*background-color: #ff0000;*/
     position: absolute;
     right: 890px;
     top: 65px;
+}
+.imagen {
+    padding: 2px;
 }
 
 .container5{
     width: 172px;
     height: 792px;
-    background-color: #ff0000;
+    /*background-color: #ff0000;*/
     position: absolute;
     right: 700px;
     top: 65px;
@@ -57,7 +94,7 @@
 .container6{
     width: 172px;
     height: 792px;
-    background-color: #ff0000;
+    /*background-color: #ff0000;*/
     position: absolute;
     right: 510px;
     top: 65px;
@@ -67,7 +104,7 @@
 .container7{
     width: 172px;
     height: 792px;
-    background-color: #ff0000;
+    /*background-color: #ff0000;*/
     position: absolute;
     right: 320px;
     top: 65px;
