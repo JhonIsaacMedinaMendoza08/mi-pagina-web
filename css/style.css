@@ -19,21 +19,51 @@
 .container2{
     width: 637px;
     height: 414px;
-    background-color: #00ffff;
+    /*background-color: #00ffff;*/
     position: absolute;
     left: 285px;
     top: 120px;
 }
-
+.text {
+    font-size: 73px;
+    color: #252525;
+    font-family: "Lato-Bold";
+    margin-right: 85px;
+}
+.container2 h2{
+    font-size: 26px;
+    color: #252525;
+    font-family: "Lato-Thin";
+    opacity: 0.8;
+    position: absolute;
+    bottom: 115px;
+}
+.container2 button{
+    width: 182px;
+    height: 66px;
+    background-color: #252525;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    border-radius: 36px;
+    font-family: "Lato-Regular";
+    font-size: 24px;
+    position: absolute;
+    bottom: 15px;
+}
 .container3{
     width: 547px;
     height: 518px;
-    background-color: #00ffff;
+    /*background-color: #00ffff;*/
     position: absolute;
     right:310px;
     top: 70px;
 }
-
+.imagen2 {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
 .container4{
     width: 1312px;
     height: 298px;
@@ -47,7 +77,7 @@
 .container5{
     width: 1184px;
     height: 170px;
-    background-color: #ff0000;
+    /*background-color: #ff0000;*/
     position: absolute;
     left:345px;
     bottom: 80px;
@@ -56,26 +86,67 @@
 .container6{
     width: 316px;
     height: 170px;
-    background-color: #2bff00;
+    /*background-color: #2bff00;*/
     position: absolute;
     left:345px;
     bottom: 80px;
+}
+.container6 h1{
+    font-size: 32px;
+    font-family: "Lato-Regular";
+    color: #ffffff;
+    position: absolute;
+    top: 35px;
+}
+.container6 h2{
+    font-size: 24px;
+    font-family: "Lato-Thin";
+    color: #ffffff;
+    position: absolute;
+    bottom: 10px;
 }
 
 .container7{
     width: 316px;
     height: 170px;
-    background-color: #2bff00;
+    /*background-color: #2bff00;*/
     position: absolute;
     left: 779px;
     bottom: 80px;
 }
-
+.container7 h1{
+    font-size: 32px;
+    font-family: "Lato-Regular";
+    color: #ffffff;
+    position: absolute;
+    top: 35px;
+}
+.container7 h2{
+    font-size: 24px;
+    font-family: "Lato-Thin";
+    color: #ffffff;
+    position: absolute;
+    bottom: 10px;
+}
 .container8{
     width: 316px;
     height: 170px;
-    background-color: #2bff00;
+    /*background-color: #2bff00;*/
     position: absolute;
     right:375px;
     bottom: 80px;
+}
+.container8 h1{
+    font-size: 32px;
+    font-family: "Lato-Regular";
+    color: #ffffff;
+    position: absolute;
+    top: 35px;
+}
+.container8 h2{
+    font-size: 24px;
+    font-family: "Lato-Thin";
+    color: #ffffff;
+    position: absolute;
+    bottom: 10px;
 }
