@@ -7,3 +7,68 @@
     /*background-color: #AB2706;*/
 
 }
+
+.container1 {
+    width: 1440px;
+    height: 926px;
+    background-color: transparent;
+    border: 3px;
+    border-style: solid;
+    position: absolute;
+    left: 225px;
+}
+
+.container2{
+    width: 449px;
+    height: 582px;
+    background-color: #00ffff;
+    position: absolute;
+    left: 350px;
+    top: 160px;
+}
+
+.container3{
+    width: 742px;
+    height: 792px;
+    background-color: #00ffff;
+    position: absolute;
+    right: 320px;
+    top: 65px;
+}
+
+.container4{
+    width: 172px;
+    height: 792px;
+    background-color: #ff0000;
+    position: absolute;
+    right: 890px;
+    top: 65px;
+}
+
+.container5{
+    width: 172px;
+    height: 792px;
+    background-color: #ff0000;
+    position: absolute;
+    right: 700px;
+    top: 65px;
+}
+
+.container6{
+    width: 172px;
+    height: 792px;
+    background-color: #ff0000;
+    position: absolute;
+    right: 510px;
+    top: 65px;
+}
+
+
+.container7{
+    width: 172px;
+    height: 792px;
+    background-color: #ff0000;
+    position: absolute;
+    right: 320px;
+    top: 65px;
+}
