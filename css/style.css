@@ -1,9 +1,86 @@
 @import url(variables.css);
 
-*{
+html, body {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; 
-    /*background-color: #AB2706;*/
+    box-sizing: border-box;
+    height: 100%;
+    background: linear-gradient(to bottom, #09212c, #043e49);
+}
 
+.container1 {
+    width: 1440px;
+    height: 1024px;
+    background-color: transparent;
+    border: 2px;
+    border-style: solid;
+    position: absolute;
+    left: 225px;
+}
+
+.imagen1 {
+    position: absolute;
+    right: 0px;
+}
+
+.container2{
+    width: 724px;
+    height: 518px;
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(3px);
+    border-radius: 24px;
+    position: absolute;
+    left: 295px;
+    top: 190px;
+}
+
+.container3{
+    width: 1312px;
+    height: 171px;
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(3px);
+    border-radius: 32px;
+    border: 1px;
+    border-color: #ffffff;
+    border-style: solid;
+    
+    position: absolute;
+    left: 295px;
+    top: 790px;
+}
+
+.container4 {
+    width: 231px;
+    height: 123px;
+    background-color: #252525;
+    position: absolute;
+    top: 814px;
+    left: 351px;
+}
+
+.container5 {
+    width: 231px;
+    height: 123px;
+    background-color: #252525;
+    position: absolute;
+    top: 814px;
+    left: 674px;
+}
+
+.container6 {
+    width: 231px;
+    height: 123px;
+    background-color: #252525;
+    position: absolute;
+    top: 814px;
+    left: 997px;
+}
+
+.container7 {
+    width: 231px;
+    height: 123px;
+    background-color: #252525;
+    position: absolute;
+    top: 814px;
+    left: 1320px;
 }
