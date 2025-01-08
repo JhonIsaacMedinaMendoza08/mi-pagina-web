@@ -37,12 +37,47 @@
     width: 637px;
     height: 692px;
     background-color: transparent;
-    border: 3px;
+    border: 0px;
     border-style: solid;
     position: absolute;
     right: 635px;
     top: 160px;
 }
+.container4 h1 {
+    font-size: 100px;
+    color: #252525;
+    font-family: "OpenSans-SemiBold";
+    text-align: center;
+    word-spacing: 80px;
+    line-height: 108px;
+    margin-top: 20px;
+}
+.container4 h2 {
+    width: 306px;
+    height: 108px;
+    font-size: 22px;
+    color: #252525;
+    opacity: 0.8;
+    text-align: center;
+    font-family: "OpenSans-Regular";
+    margin: auto;
+    margin-top: 80px;
+}
+.container4 button {
+    width: 182px;
+    height: 66px;
+    font-size: 24px;
+    color: #FFFFFF;
+    background-color: #252525;
+    border: none;
+    border-radius: 36px;
+    cursor: pointer;
+    position: absolute; 
+    left: 230px;
+    bottom: 15px;
+
+}
+
 .container5{
     width: 637px;
     height: 692px;
@@ -50,6 +85,7 @@
     position: absolute;
     right: 695px;
     top: 0px;
+    z-index: -1;
 }
 .container6{
     width: 255px;
@@ -87,7 +123,21 @@
     position: absolute;
     left: 295px;
     top: 80px;
-    background-color: #ee0f0f
+    /*background-color: #ee0f0f*/
+}
+.container10 h1 {
+    font-size: 24px;
+    color: #252525;
+    opacity: 0.45;
+    font-family: "OpenSans-SemiBold";
+}
+.container10 h2 {
+    font-size: 22px;
+    color: #252525;
+    opacity: 0.8;
+    font-family: "OpenSans-Regular";
+    position: absolute;
+    bottom: 5px;
 }
 .container11{
     width: 434px;
@@ -95,5 +145,19 @@
     position: absolute;
     right: 305px;
     top: 800px;
-    background-color: #ee0f0f
+    /*background-color: #ee0f0f*/
+}
+.container11 h1 {
+    font-size: 24px;
+    color: #252525;
+    opacity: 0.45;
+    font-family: "OpenSans-SemiBold";
+}
+.container11 h2 {
+    font-size: 22px;
+    color: #252525;
+    opacity: 0.8;
+    font-family: "OpenSans-Regular";
+    position: absolute;
+    bottom: 5px;
 }
