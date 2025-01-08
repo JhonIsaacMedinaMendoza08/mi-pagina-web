@@ -16,3 +16,7 @@ src: url(../storage/font/Poppins/Poppins-Regular.ttf);
 font-family: "Poppins-SemiBold";
 src: url(../storage/font/Poppins/Poppins-SemiBold.ttf);
 }
+@font-face {
+font-family: "Poppins-Light";
+src: url(../storage/font/Poppins/Poppins-Light.ttf);
+}
