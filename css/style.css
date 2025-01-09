@@ -19,11 +19,37 @@
 .container2 {
     width: 695px;
     height: 297px;
-    background-color: red;
+    /*background-color: red;*/
     position: absolute;
     left: 585px;
     top: 50px;
 }
+.container2 h1 {
+    font-family: "Poppins-SemiBold";
+    font-size: 56px;
+}
+.container2 p {
+    font-family: "WorkSans-Light";
+    font-size: 24px;
+    text-align: center;
+    margin-top: 30px;
+}
+.container2 button {
+    font-family: "Poppins-Regular";
+    font-size: 24px;
+    background-color: #252525;
+    color: #ffffff;
+    width: 182px;
+    height: 66px;
+    border: none;
+    border-radius: 36px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 0px;
+    left: 250px;
+
+}
+
 .container3 {
     width: 1048px;
     height: 191px;
@@ -37,40 +63,95 @@
 .container4 {
     width: 176px;
     height: 111px;
-    background-color: rgb(230, 9, 9);
+    background-color: rgb(255, 255, 255);
     position: absolute;
     left: 479px;
     top: 440px;
     z-index: +1;
 }
+.container4 h1 {
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 5px;
+    background-color: transparent;
+    font-family: "WorkSans-Medium";
+}
+.container4 p {
+    font-size: 17px;
+    color: #000000;
+    margin-top: 15px;
+    background-color: transparent;
+    font-family: "WorkSans-Light";
+}
 .container5 {
     width: 176px;
     height: 111px;
-    background-color: rgb(230, 9, 9);
+    background-color: rgb(255, 255, 255);
     position: absolute;
     left: 727px;
     top: 440px;
     z-index: +1;
 }
+.container5 h1 {
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 5px;
+    background-color: transparent;
+    font-family: "WorkSans-Medium";
+}
+.container5 p {
+    font-size: 17px;
+    color: #000000;
+    margin-top: 15px;
+    background-color: transparent;
+    font-family: "WorkSans-Light";
+}
 .container6{
     width: 176px;
     height: 111px;
-    background-color: rgb(230, 9, 9);
+    background-color: rgb(255, 255, 255);
     position: absolute;
     left: 975px;
     top: 440px;
     z-index: +1;
 }
+.container6 h1 {
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 5px;
+    background-color: transparent;
+    font-family: "WorkSans-Medium";
+}
+.container6 p {
+    font-size: 17px;
+    color: #000000;
+    margin-top: 15px;
+    background-color: transparent;
+    font-family: "WorkSans-Light";
+}
 .container7{
     width: 176px;
     height: 111px;
-    background-color: rgb(230, 9, 9);
+    background-color: rgb(255, 255, 255);
     position: absolute;
     left: 1223px;
     top: 440px;
     z-index: +1;
 }
-
+.container7 h1 {
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 5px;
+    background-color: transparent;
+    font-family: "WorkSans-Medium";
+}
+.container7 p {
+    font-size: 17px;
+    color: #000000;
+    margin-top: 15px;
+    background-color: transparent;
+    font-family: "WorkSans-Light";
+}
 .container8 {
     width: 1312px;
     height: 526px;
@@ -78,6 +159,7 @@
     position: absolute;
     left: 285px;
     top: 500px;
+    z-index: -1;
 }
 .container9 {
     width: 1313px;
