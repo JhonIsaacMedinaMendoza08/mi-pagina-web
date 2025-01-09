@@ -5,16 +5,16 @@
     --color-4: #FFFFFF;
 }
 @font-face {
-font-family: "WorkSans-Bold";
-src: url(../storage/font/Work_Sans/WorkSans-Bold.ttf);
+font-family: "Roboto-Italic";
+src: url(../storage/font/Roboto/Roboto-ThinItalic.ttf);
 }
 @font-face {
-font-family: "WorkSans-Light";
-src: url(../storage/font/Work_Sans/WorkSans-Light.ttf);
+font-family: "Roboto-Regular";
+src: url(../storage/font/Roboto/Roboto-Regular.ttf);
 }
 @font-face {
-font-family: "WorkSans-Medium";
-src: url(../storage/font/Work_Sans/WorkSans-Medium.ttf);
+font-family: "Roboto-Bold";
+src: url(../storage/font/Roboto/Roboto-Bold.ttf);
 }
 @font-face {
 font-family: "Montserrat-SemiBold";
