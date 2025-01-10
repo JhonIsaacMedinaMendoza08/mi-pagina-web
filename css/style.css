@@ -7,3 +7,116 @@
     /*background-color: #AB2706;*/
 
 }
+.container1 {
+    width: 1440px;
+    height: 1345px;
+    background-color: transparent;
+    border: 2px;
+    border-style: solid;
+    position: absolute;
+    left: 225px;
+}
+.imagePrincipal{
+    width: 592px;
+    height: 592px;
+    background-color: transparent;
+    position: absolute;
+    left: 770px;
+    top: 60px;
+
+
+}
+
+.container2 {
+    width: 464px;
+    height: 498px;
+    background-color: red;
+    position: absolute;
+    left: 335px;
+    top: 130px;
+}
+
+.container3 {
+    width: 878px;
+    height: 188px;
+    background-color: #ECDAC4;
+    border-radius: 80PX;
+    position: absolute;
+    left: 510px;
+    top: 680px;
+}
+.container4 {
+    width: 170px;
+    height: 140px;
+    background-color: #ff8c00;
+    position: absolute;
+    left: 606px;
+    top: 704px;
+}
+.container5 {
+    width: 170px;
+    height: 140px;
+    background-color: #ff8c00;
+    position: absolute;
+    left: 864px;
+    top: 704px;
+}
+.container6 {
+    width: 170px;
+    height: 140px;
+    background-color: #ff8c00;
+    position: absolute;
+    left: 1122px;
+    top: 704px;
+}
+.container7 {
+    width: 1440px;
+    height: 472px;
+    background-color: #363032;
+    position: absolute;
+    left: 225px;
+    top: 800px;
+    z-index: -1;
+}
+.container8 {
+    width: 186px;
+    height: 286px;
+    background-color: #ff0055;
+    position: absolute;
+    left: 285px;
+    top: 930px;
+}
+.container9 {
+    width: 186px;
+    height: 286px;
+    background-color: #ff0055;
+    position: absolute;
+    left: 567px;
+    top: 930px;
+}
+.container10 {
+    width: 186px;
+    height: 286px;
+    background-color: #ff0055;
+    position: absolute;
+    left: 849px;
+    top: 930px;
+}
+.container11 {
+    width: 186px;
+    height: 286px;
+    background-color: #ff0055;
+    position: absolute;
+    left: 1131px;
+    top: 930px;
+}
+.container12 {
+    width: 186px;
+    height: 286px;
+    background-color: #ff0055;
+    position: absolute;
+    left: 1413px;
+    top: 930px;
+}
+
+
