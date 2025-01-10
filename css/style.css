@@ -11,7 +11,7 @@
     width: 1440px;
     height: 1131px;
     background-color: transparent;
-    border: 2px;
+    border: 0px;
     border-style: solid;
     position: absolute;
     left: 225px;
@@ -27,10 +27,38 @@
 .container2 {
     width: 483px;
     height: 426px;
-    background-color: red;
+    /*background-color: red;*/
     position: absolute;
     left: 355px;
     top: 180px;
+}
+.container2 h1 {
+    font-size: 72px;
+    color: #252525;
+    font-family: "Lato-Bold";
+    line-height: 94px;
+}
+.container2 p{
+    width: 450px;
+    font-size: 24px;
+    color: #252525;
+    font-family: "Lato-Regular";
+    line-height: 32px;
+    margin-top: 25px;
+}
+.container2 button {
+    width: 288px;
+    height: 66px;
+    background-color: #252525;
+    color: #ffffff;
+    border-radius: 36px;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: "Lato-Regular";
+    position: absolute;
+    bottom: 0px;
+
 }
 
 .container3 {
@@ -63,10 +91,29 @@
 .container5 {
     width: 483px;
     height: 237px;
-    background-color: red;
+    background-color: rgb(255, 255, 255);
     position: absolute;
     left: 1065px;
     top: 825px;
+}
+.Rectangle4 {
+    position: absolute;
+    top: 0px;
+}
+.container5 h1 {
+    font-size: 24px;
+    font-family: "Lato-Regular";
+    color: #252525;
+    margin-top: 25px;
+    background-color: transparent;
+}
+.container5 p {
+    font-size: 22px;
+    font-family: "Lato-Light";
+    color: #000000;
+    margin-top: 10px;
+    background-color: transparent;
+
 }
 .container6 {
     width: 463px;
