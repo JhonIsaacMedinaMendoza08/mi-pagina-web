@@ -12,7 +12,7 @@
     width: 1440px;
     height: 1024px;
     background-color: transparent;
-    border: 3px;
+    border: 0px;
     border-style: solid;
     border-color: #a80b0b;
     position: absolute;
@@ -23,13 +23,42 @@
     right: 0px;
 
 }
+.teaIllustration {
+    margin-left: 35px;
+}
 .container2 {
     width: 574px;
     height: 333px;
-    background-color: #dd2020;
+    background-color: transparent;
     position: absolute;
-    left: 290px;
+    left: 280px;
     top: 220px;
+}
+.container2 h1 {
+    font-size: 112px;
+    font-family: "Poppins-Bold";
+    background-color: transparent;
+    margin-bottom: 32px;
+}
+.container2 p {
+    font-size: 24px;
+    font-family: "Poppins-Regular";
+    background-color: transparent;
+    margin-bottom: 32px;
+}
+.container2 button {
+    width: 227px;
+    height: 66px;
+    background-color: #271908;
+    border: none;
+    cursor: pointer;
+    border-radius: 40px;
+    font-size: 22px;
+    font-family: "Poppins-Regular";
+    color: #ffffff;
+
+
+
 }
 
 .container3 {
