@@ -5,18 +5,18 @@
     --color-4: #FFFFFF;
 }
 @font-face {
-font-family: "WorkSans-Bold";
-src: url(../storage/font/Work_Sans/WorkSans-Bold.ttf);
+font-family: "Lato-Light";
+src: url(../storage/font/Lato/Lato-Light.ttf);
 }
 @font-face {
-font-family: "WorkSans-Light";
-src: url(../storage/font/Work_Sans/WorkSans-Light.ttf);
+font-family: "Lato-Bold";
+src: url(../storage/font/Lato/Lato-Bold.ttf);
 }
 @font-face {
-font-family: "WorkSans-Medium";
-src: url(../storage/font/Work_Sans/WorkSans-Medium.ttf);
+font-family: "Lato-Regular";
+src: url(../storage/font/Lato/Lato-Regular.ttf);
 }
 @font-face {
-font-family: "Montserrat-SemiBold";
-src: url(../storage/font/Montserrat/Montserrat-SemiBold.ttf);
+font-family: "Lato-Black";
+src: url(../storage/font/Lato/Lato-Black.ttf);
 }

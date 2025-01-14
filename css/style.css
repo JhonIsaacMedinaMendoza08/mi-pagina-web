@@ -4,15 +4,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /*background-color: #010625;*/
+    background-color: #010625;
 
 }
 
 .container1 {
     width: 1440px;
     height: 1457px;
-    /*background: linear-gradient(to right, #010625, #01062d);*/
-    border: 3px;
+    background: linear-gradient(to right, #010625, #01062d);
+    border: 0px;
     border-style: solid;
     border-color: #0ba3a8;
     position: absolute;
@@ -39,29 +39,93 @@
 .container2 {
     width: 542px;
     height: 560px;
-    background-color: #dd2020;
+    /*background-color: #dd2020;*/
     position: absolute;
     left: 330px;
     top: 130px;
     z-index: +1;
 }
+.container2 h1 {
+    width: 405px;
+    height: 318px;
+    font-size: 88px;
+    font-family: "Lato-Bold";
+    color: #FFFFFF;
+    margin-bottom: 40px;
+}
+.container2 p {
+    font-family: "Lato-Regular";
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-bottom: 40px;
+}
+.container2 button {
+    width: 190px;
+    height: 66px;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    color: #01062D;
+    cursor: pointer;
+    border: none;
+    border-radius: 16px;
+    font-size: 24px;
+    font-family: "Lato-Regular";
 
+
+
+}
 .container3 {
     width: 456px;
     height: 464px;
-    background-color: #dd2020;
+    background-color: transparent;
     position: absolute;
     left: 1100px;
     top: 585px;
     z-index: +1;
 }
+.container3 h1 {
+    font-family: "Lato-Black";
+    font-size: 32px;
+    color: #FFFFFF;
+    background-color: transparent;
+    margin-top: 20px;
+}
+.container3 p {
+    font-family: "Lato-Light";
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    background-color: transparent;
+
+}
+.container3 h2 {
+    font-family: "Lato-Black";
+    font-size: 32px;
+    color: #FFFFFF;
+    margin-top: 35px;
+    background-color: transparent;
+}
+.container3 h3 {
+    font-family: "Lato-Black";
+    font-size: 32px;
+    color: #FFFFFF;
+    margin-top: 35px;
+    background-color: transparent;
+
+}
+
 .container4 {
     width: 1284px;
     height: 260px;
-    background-color: #20dd20;
+    /*background-color: #20dd20;*/
     position: absolute;
     left: 300px;
     top: 1130px;
     z-index: +1;
 }
-
+.image1 {
+    margin-right: 20px;
+}
+.image2 {
+    margin-right: 20px;
+}
