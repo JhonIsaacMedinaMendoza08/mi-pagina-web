@@ -4,6 +4,125 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box; 
-    /*background-color: #AB2706;*/
+    background-color: #e8d9d6;
 
 }
+
+.container1 {
+    width: 1440px;
+    height: 1024px;
+    background-color: transparent;
+    border: 3px;
+    border-style: solid;
+    border-color: #a80b0b;
+    position: absolute;
+    left: 225px;
+}
+.ImageArea {
+    position: absolute;
+    right: 0px;
+
+}
+.container2 {
+    width: 574px;
+    height: 333px;
+    background-color: #dd2020;
+    position: absolute;
+    left: 290px;
+    top: 220px;
+}
+
+.container3 {
+    width: 426px;
+    height: 195px;
+    background-color: #ffffff;
+    border-radius: 100px;
+    position: absolute;
+    left: 290px;
+    top: 770px;
+}
+.image{
+    background-color: transparent;
+}
+.container3 h1 {
+    font-size: 40px;
+    color: #252525;
+    background-color: transparent;
+    font-family: "Poppins-SemiBold";
+    position: absolute;
+    top: 15px;
+    left: 185px;
+}
+.container3 p {
+    font-size: 18px;
+    color: #252525;
+    background-color: transparent;
+    font-family: "Poppins-Regular";
+    position: absolute;
+    top: 75px;
+    left: 185px;
+}
+.container4 {
+    width: 426px;
+    height: 195px;
+    background-color: #ffffff;
+    border-radius: 100px;
+    position: absolute;
+    left: 733px;
+    top: 770px;
+
+}
+.container4 h1 {
+    font-size: 40px;
+    color: #252525;
+    background-color: transparent;
+    font-family: "Poppins-SemiBold";
+    position: absolute;
+    top: 15px;
+    left: 185px;
+}
+.container4 p {
+    font-size: 18px;
+    color: #252525;
+    background-color: transparent;
+    font-family: "Poppins-Regular";
+    position: absolute;
+    top: 75px;
+    left: 185px;
+}
+.container5 {
+    width: 426px;
+    height: 195px;
+    background-color: #ffffff;
+    border-radius: 100px;
+    position: absolute;
+    left: 1176px;
+    top: 770px;
+
+}
+.container5 h1 {
+    font-size: 40px;
+    color: #252525;
+    background-color: transparent;
+    font-family: "Poppins-SemiBold";
+    position: absolute;
+    top: 15px;
+    left: 185px;
+}
+.container5 p {
+    font-size: 18px;
+    color: #252525;
+    background-color: transparent;
+    font-family: "Poppins-Regular";
+    position: absolute;
+    top: 75px;
+    left: 185px;
+}
+
+
+
+
+
+
+
+
