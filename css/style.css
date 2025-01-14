@@ -10,9 +10,8 @@
 .container1 {
     width: 1440px;
     height: 1024px;
-    border: 3px;
     background: linear-gradient(to right, #0d0f1b, #100e19);
-    border: 3px;
+    border: 0px;
     border-style: solid;
     border-color: #0ba3a8;
     position: absolute;
@@ -25,40 +24,126 @@
 .container2 {
     width: 684px;
     height: 454px;
-    background-color: #dd2020;
+    background-color: transparent;
     position: absolute;
-    left: 330px;
+    left: 300px;
     top: 170px;
 }
+.container2 h1 {
+    font-size: 88px;
+    font-family: "Lato-Black";
+    color: #ffffff;
+    background-color: transparent;
+    margin-bottom: 24px;
+}
+.container2 p {
+    width: 568px;
+    height: 128px;
+    font-family: "Lato-Regular";
+    font-size: 24px;
+    color: #ffffff;
+    background-color: transparent;
+    margin-bottom: 24px;
+}
+.container2 button {
+    width: 216px;
+    height: 66px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 16px;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: "Lato-Regular";
+    color: #000000;
+
+}
 .container3 {
-    width: 1284px;
+    width: 412px;
     height: 232px;
-    background-color: #dd2020;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(100px);
+    border-radius: 16px;
+    opacity: 0.9;
     position: absolute;
-    left: 330px;
+    left: 300px;
     top: 730px;
+}
+.container3 h1 {
+    font-size: 32px;
+    font-family: "Lato-Black";
+    color: #ffffff;
+    background-color: transparent;
+    margin-top: 30px;
+    margin-left: 65px;
+    margin-bottom: 24px;
+
+}
+.container3 p {
+    width: 305px;
+    height: 96px;
+    font-size: 24px;
+    font-family: "Lato-Light";
+    color: #ffffff;
+    background-color: transparent;
+    margin-left: 65px;
 }
 .container4 {
     width: 412px;
     height: 232px;
-    background-color: #a4dd20;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(100px);
+    border-radius: 16px;
+    opacity: 0.9;
     position: absolute;
-    left: 330px;
+    left: 736px;
     top: 730px;
+}
+.container4 h1 {
+    font-size: 32px;
+    font-family: "Lato-Black";
+    color: #ffffff;
+    background-color: transparent;
+    margin-top: 30px;
+    margin-left: 65px;
+    margin-bottom: 24px;
+
+}
+.container4 p {
+    width: 305px;
+    height: 96px;
+    font-size: 24px;
+    font-family: "Lato-Light";
+    color: #ffffff;
+    background-color: transparent;
+    margin-left: 65px;
 }
 .container5 {
     width: 412px;
     height: 232px;
-    background-color: #a4dd20;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(100px);
+    border-radius: 16px;
+    opacity: 0.9;
     position: absolute;
-    left: 766px;
+    left: 1174px;
     top: 730px;
 }
-.container6 {
-    width: 412px;
-    height: 232px;
-    background-color: #a4dd20;
-    position: absolute;
-    left: 1204px;
-    top: 730px;
+.container5 h1 {
+    font-size: 32px;
+    font-family: "Lato-Black";
+    color: #ffffff;
+    background-color: transparent;
+    margin-top: 30px;
+    margin-left: 65px;
+    margin-bottom: 24px;
+
+}
+.container5 p {
+    width: 305px;
+    height: 96px;
+    font-size: 24px;
+    font-family: "Lato-Light";
+    color: #ffffff;
+    background-color: transparent;
+    margin-left: 65px;
 }
