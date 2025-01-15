@@ -7,3 +7,225 @@
     /*background-color: #AB2706;*/
 
 }
+.container1 {
+    width: 1440px;
+    height: 1024px;
+    background-color: transparent;
+    border: 0px;
+    border-style: solid;
+    border-color: #a80b0b;
+    position: absolute;
+    left: 225px;
+}
+
+.container2 {
+    width: 556px;
+    height: 430px;
+    /*background-color: #dd2020;*/
+    position: absolute;
+    left: 300px;
+    top: 140px;
+}
+.container2 h1 {
+    font-family: "Lato-Bold";
+    font-size: 80px;
+    margin-bottom: 32px;
+    color: #333333;
+}
+.container2 p {
+    width: 495px;
+    height: 96px;
+    font-family: "Lato-Regular";
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 32px;
+}
+.container2 button {
+    width: 222px;
+    height: 66px;
+    background-color: #333333;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-family: "Lato-Regular";
+    font-size: 22px;
+    color: #FFFFFF;
+
+
+}
+
+.container3 {
+    width: 318px;
+    height: 394px;
+    /*background-color: #dd2020;*/
+    position: absolute;
+    left: 936px;
+    top: 140px;
+}
+
+.container3-1 h1 {
+    width: 210px;
+    height: 76px;
+    /*background-color: #40dd20;*/
+    font-family: "Lato-Bold";
+    font-size: 28px;
+    color: #333333;
+    position: absolute;
+    left: 107px;
+    top: 0px; 
+}
+.container3-1 p {
+    width: 210px;
+    height: 76px;
+    font-family: "Lato-Regular";
+    font-size: 16px;
+    position: absolute;
+    left: 107px;
+    top: 35px; 
+}
+.frameLeft2 {
+    margin-top: 78px;
+}
+.container3-2 h1 {
+    width: 210px;
+    height: 76px;
+    /*background-color: #40dd20;*/
+    font-family: "Lato-Bold";
+    font-size: 28px;
+    color: #333333;
+    position: absolute;
+    left: 107px;
+    top: 158px;
+}
+.container3-2 p {
+    width: 210px;
+    height: 76px;
+    font-family: "Lato-Regular";
+    font-size: 16px;
+    position: absolute;
+    left: 107px;
+    top: 195px; 
+}
+
+.frameLeft3 {
+    margin-top: 78px;
+}
+.container3-3 h1 {
+    width: 210px;
+    height: 76px;
+    /*background-color: #40dd20;*/
+    font-family: "Lato-Bold";
+    font-size: 28px;
+    color: #333333;
+    position: absolute;
+    left: 107px;
+    top: 316px;
+}
+.container3-3 p {
+    width: 210px;
+    height: 76px;
+    font-family: "Lato-Regular";
+    font-size: 16px;
+    position: absolute;
+    left: 107px;
+    top: 351px; 
+}
+.container4 {
+    width: 318px;
+    height: 394px;
+    /*background-color: #dd2020;*/
+    position: absolute;
+    left: 1294px;
+    top: 140px;
+}
+.container4-1 h1 {
+    width: 210px;
+    height: 76px;
+    /*background-color: #40dd20;*/
+    font-family: "Lato-Bold";
+    font-size: 28px;
+    color: #333333;
+    position: absolute;
+    left: 107px;
+    top: 0px; 
+}
+.container4-1 p {
+    width: 210px;
+    height: 76px;
+    font-family: "Lato-Regular";
+    font-size: 16px;
+    position: absolute;
+    left: 107px;
+    top: 35px; 
+}
+.frameRight2 {
+    margin-top: 78px;
+}
+.container4-2 h1 {
+    width: 210px;
+    height: 76px;
+    /*background-color: #40dd20;*/
+    font-family: "Lato-Bold";
+    font-size: 28px;
+    color: #333333;
+    position: absolute;
+    left: 107px;
+    top: 158px;
+}
+.container4-2 p {
+    width: 210px;
+    height: 76px;
+    font-family: "Lato-Regular";
+    font-size: 16px;
+    position: absolute;
+    left: 107px;
+    top: 195px; 
+}
+.frameRight3 {
+    margin-top: 78px;
+}
+.container4-3 h1 {
+    width: 210px;
+    height: 76px;
+    /*background-color: #40dd20;*/
+    font-family: "Lato-Bold";
+    font-size: 28px;
+    color: #333333;
+    position: absolute;
+    left: 107px;
+    top: 316px;
+}
+.container4-3 p {
+    width: 210px;
+    height: 76px;
+    font-family: "Lato-Regular";
+    font-size: 16px;
+    position: absolute;
+    left: 107px;
+    top: 351px; 
+}
+.container5 {
+    width: 1312px;
+    height: 283px;
+    /*background-color: #dd2020;*/
+    border-radius: 50px;
+    position: absolute;
+    left: 300px;
+    top: 670px;
+}
+
+.image1 {
+    margin-right: -4px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.image {
+    margin-right: -4px;
+
+}
+
+.image4 {
+    margin-right: -4px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
