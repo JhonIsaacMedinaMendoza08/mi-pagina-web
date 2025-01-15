@@ -12,7 +12,7 @@
     width: 1440px;
     height: 994px;
     background-color: transparent;
-    border: 3px;
+    border: 0px;
     border-style: solid;
     border-color: #a80b0b;
     position: absolute;
@@ -22,18 +22,126 @@
 .container2 {
     width: 581px;
     height: 494px;
-    background-color: #dd2020;
+    background-color: transparent;
     position: absolute;
     left: 290px;
     top: 120px;
 }
-
+.container2 h1 {
+    font-size: 72px;
+    font-family: "Lato-Bold";
+    color: #ffffff;
+    margin-bottom: 48px;
+}
+.container2 p {
+    font-size: 24px;
+    font-family: "Lato-Regular";
+    color: #ffffff;
+    margin-bottom: 45px;
+}
+.container2 button {
+    width: 222px;
+    height: 66px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-family: "Lato-Regular";
+    font-size: 22px;
+    color: #122a29;
+}
 
 .container3 {
     width: 1312px;
     height: 168px;
-    background-color: #dd2020;
+    /*background-color: #dd2020;*/
     position: absolute;
     left: 290px;
     top: 760px;
+}
+
+.image1 {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    margin-right: -5px;
+}
+.image {
+    margin-right: -5px;
+}
+.image6 {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-right: -5px;
+}
+
+.container4 {
+    width: 1312px;
+    height: 47px;
+    background-color: transparent;
+    position: absolute;
+    left: 290px;
+    top: 880px;
+}
+.container4-1 h1 {
+    width: 219px;
+    height: 47px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Lato-Bold";
+    font-size: 26px;
+}
+.container4-2 h1 {
+    width: 219px;
+    height: 47px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Lato-Bold";
+    font-size: 26px;
+    position: absolute;
+    left: 220px;
+    top: 0px;
+}
+.container4-3 h1 {
+    width: 219px;
+    height: 47px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Lato-Bold";
+    font-size: 26px;
+    position: absolute;
+    left: 435px;
+    top: 0px;
+}
+.container4-4 h1 {
+    width: 219px;
+    height: 47px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Lato-Bold";
+    font-size: 26px;
+    position: absolute;
+    left: 655px;
+    top: 0px;
+}
+.container4-5 h1 {
+    width: 219px;
+    height: 47px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Lato-Bold";
+    font-size: 26px;
+    position: absolute;
+    left: 875px;
+    top: 0px;
+}
+.container4-6 h1 {
+    width: 219px;
+    height: 47px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Lato-Bold";
+    font-size: 26px;
+    position: absolute;
+    left: 1095px;
+    top: 0px;
 }
