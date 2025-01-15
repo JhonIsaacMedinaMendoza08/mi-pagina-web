@@ -21,10 +21,56 @@
 .container2 {
     width: 591px;
     height: 636px;
-    background-color: #dd2020;
+    background: linear-gradient(to bottom, #8d8d92, #e9e3e3);
+    backdrop-filter: blur(2px);
+    opacity: 0.8;
+
+    border-radius: 48px;
     position: absolute;
     left: 300px;
     top: 180px;
+}
+.container2 h1 {
+    font-family: "Montserrat-Regular";
+    font-size: 18px;
+    background-color: transparent;
+    opacity: 1;
+    color: #ffffff;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.container2 h2 {
+    font-family: "Montserrat-SemiBold";
+    font-size: 72px;
+    background-color: transparent;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.container2 p {
+    width: 495px;
+    height: 160px;
+    font-family: "Montserrat-Regular";
+    font-size: 24px;
+    background-color: transparent;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.container2 button {
+    width: 252px;
+    height: 66px;
+    background-color: #519BFD;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    opacity: 0.9;
+    font-family: "Montserrat-Medium";
+    font-size: 22px;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-left: 50px;
+
 }
 
 .container3 {
