@@ -7,3 +7,33 @@
     /*background-color: #AB2706;*/
 
 }
+
+.container1 {
+    width: 1440px;
+    height: 994px;
+    background-color: transparent;
+    border: 3px;
+    border-style: solid;
+    border-color: #a80b0b;
+    position: absolute;
+    left: 225px;
+}
+
+.container2 {
+    width: 581px;
+    height: 494px;
+    background-color: #dd2020;
+    position: absolute;
+    left: 290px;
+    top: 120px;
+}
+
+
+.container3 {
+    width: 1312px;
+    height: 168px;
+    background-color: #dd2020;
+    position: absolute;
+    left: 290px;
+    top: 760px;
+}
