@@ -4,6 +4,56 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box; 
-    /*background-color: #AB2706;*/
 
+}
+.container1 {
+    width: 100%;
+    height: 1024px;
+    background: linear-gradient(
+        160deg, 
+        #f2c94c 0%,  /* Amarillo claro */
+        #f8e5a1 30%, /* Amarillo pálido */
+        #8ab2dc 60%, /* Azul suave */
+        #685fd4 90%, /* Azul violeta */
+        #ffffff 100% /* Blanco */
+    ); 
+    opacity: 0.7;
+    border: 3px;
+    border-style: solid;
+    border-color: #000000;
+
+}
+.container2 {
+    width: 1440px;
+    height: 1024px;
+    background-color: transparent;
+    border: 3px;
+    border-style: solid;
+    border-color: #000000;
+    position: absolute;
+    left: 225px;
+    top: 0px;
+}
+.imagePrincipal {
+    position: absolute;
+    right: 80px;
+    top: 80px;
+}
+
+.container3 {
+    width: 485px;
+    height: 489px;
+    background-color: #61c702;
+    position: absolute;
+    left: 330px;
+    top: 160px;
+}
+
+.container4 {
+    width: 720px;
+    height: 194px;
+    background-color: #61c702;
+    position: absolute;
+    left: 300px;
+    top: 750px;
 }
