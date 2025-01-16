@@ -27,7 +27,7 @@
     width: 1440px;
     height: 1024px;
     background-color: transparent;
-    border: 3px;
+    border: 0px;
     border-style: solid;
     border-color: #000000;
     position: absolute;
@@ -43,17 +43,112 @@
 .container3 {
     width: 485px;
     height: 489px;
-    background-color: #61c702;
+    /*background-color: #61c702;*/
     position: absolute;
     left: 330px;
     top: 160px;
 }
+.container3 h1 {
+    font-size: 64px;
+    font-family: "Lato-Bold";
+    color: #333333;
+    margin-bottom: 32px;
+}
+.container3 p {
+    font-size: 24px;
+    font-family: "Lato-Regular";
+    color: #333333;
+    margin-bottom: 32px;
+    line-height: 32px;
+}
+.container3 button {
+    width: 222px;
+    height: 66px;
+    background-color: #333333;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: "Lato-Regular";
+    color: #ffffff;
+
+}
+
 
 .container4 {
     width: 720px;
     height: 194px;
-    background-color: #61c702;
+    background-color: transparent;
     position: absolute;
     left: 300px;
     top: 750px;
+}
+
+.container4-1 {
+    width: 224px;
+    height: 194px;
+    background-color: #e5e4ee;
+    border: 2px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 32px;
+}
+.image {
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.container4-1 p {
+    margin-left: 20px;
+    margin-top: 28px;
+    width: 192px;
+    height: 66px;
+    font-family: "Lato-Light";
+    font-size: 16px;
+    line-height: 22px;
+    color: #333333;
+}
+
+.container4-2 {
+    width: 224px;
+    height: 194px;
+    background-color: #e5e4ee;
+    border: 2px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 32px;
+    position: absolute;
+    left: 248px;
+    top: 0px;
+}
+.container4-2 p {
+    margin-left: 20px;
+    margin-top: 28px;
+    width: 192px;
+    height: 66px;
+    font-family: "Lato-Light";
+    font-size: 16px;
+    line-height: 22px;
+    color: #333333;
+}
+.container4-3 {
+    width: 224px;
+    height: 194px;
+    background-color: #e5e4ee;
+    border: 2px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 32px;
+    position: absolute;
+    left: 496px;
+    top: 0px;
+}
+.container4-3 p {
+    margin-left: 20px;
+    margin-top: 28px;
+    width: 192px;
+    height: 66px;
+    font-family: "Lato-Light";
+    font-size: 16px;
+    line-height: 22px;
+    color: #333333;
 }
