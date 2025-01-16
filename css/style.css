@@ -11,7 +11,7 @@
     width: 1440px;
     height: 1024px;
     background-color: transparent;
-    border: 3px;
+    border: 0px;
     border-style: solid;
     border-color: #000000;
     position: absolute;
@@ -21,11 +21,26 @@
     position: absolute;
     right: 150px;
     top: 80px;
+    z-index: +1;
 }
 .AsteriskImage {
     position: absolute;
     right: 70px;
     top: 550px;
+}
+.dogPawRight {
+    position: absolute;
+    right: 0px;
+}
+.dogPawLeft {
+    position: absolute;
+    left: 200px;
+    top: 400px;
+}
+.logo {
+    position: absolute;
+    left: 680px;
+    top: 50px;
 }
 
 .container2 {
@@ -37,17 +52,120 @@
 .container3 {
     width: 600px;
     height: 418px;
-    background-color: #61c702;
+    background-color: transparent;
     position: absolute;
     left: 330px;
     top: 180px;
+}
+.container3 h1 {
+    font-size: 80px;
+    font-family: "Lato-Bold";
+    color: #ffffff;
+    line-height: 88px;
+    margin-bottom: 40px;
+
+}
+.container3 p {
+    font-size: 24px;
+    font-family: "Lato-Regular";
+    color: #ffffff;
+    line-height: 32px;
+    margin-bottom: 40px;
+}
+.container3 button {
+    width: 291px;
+    height: 66px;
+    background-color: #7eb5e1;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: "Lato-Regular";
+    color: #ffffff;
+
+
 }
 
 .container4 {
     width: 1190px;
     height: 156px;
-    background-color: #61c702;
+    background-color: #EFEEEE;
+    border-radius: 20px;
     position: absolute;
     left: 350px;
     top: 800px;
+}
+
+.container4-1 {
+    width: 318px;
+    height: 76px;
+    background-color: transparent;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+}
+.container4-1 h1 {
+    font-size: 28px;
+    font-family: "Lato-Bold";
+    color: #333333;
+    position: absolute;
+    left: 110px;
+    top: 2px;
+}
+.container4-1 p {
+    font-size: 16px;
+    font-family: "Lato-Regular";
+    color: #333333;
+    position: absolute;
+    left: 110px;
+    top: 35px;
+}
+
+.container4-2 {
+    width: 318px;
+    height: 76px;
+    background-color: transparent;
+    position: absolute;
+    left: 436px;
+    top: 40px;
+}
+.container4-2 h1 {
+    font-size: 28px;
+    font-family: "Lato-Bold";
+    color: #333333;
+    position: absolute;
+    left: 110px;
+    top: 2px;
+}
+.container4-2 p {
+    font-size: 16px;
+    font-family: "Lato-Regular";
+    color: #333333;
+    position: absolute;
+    left: 110px;
+    top: 35px;
+}
+.container4-3 {
+    width: 318px;
+    height: 76px;
+    background-color: transparent;
+    position: absolute;
+    left: 832px;
+    top: 40px;
+}
+.container4-3 h1 {
+    font-size: 28px;
+    font-family: "Lato-Bold";
+    color: #333333;
+    position: absolute;
+    left: 110px;
+    top: 2px;
+}
+.container4-3 p {
+    font-size: 16px;
+    font-family: "Lato-Regular";
+    color: #333333;
+    position: absolute;
+    left: 110px;
+    top: 35px;
 }
