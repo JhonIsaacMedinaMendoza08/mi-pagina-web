@@ -10,7 +10,7 @@
     width: 1440px;
     height: 1024px;
     background-color: transparent;
-    border: 3px;
+    border: 0px;
     border-style: solid;
     border-color: #000000;
     margin: 0 auto;
@@ -97,8 +97,45 @@
 .container5 {
     width: 492px;
     height: 136px;
-    background-color: #61c702;
+    background-color: transparent;
+    border: 2px;
+    border-style: solid;
+    border-radius: 30px;
     position: absolute;
     left: 310px;
     top: 790px;
+}
+.container5-1  {
+    width: 178px;
+    height: 76px;
+    margin-left: 35px;
+    margin-top: 30px;
+    margin-right:64px ;
+}
+.container5-1 h1 {
+    font-size: 22px;
+    font-family: "Lato-Regular";
+    color: #333333;
+}
+.container5-1 p {
+    font-size: 18px;
+    font-family: "Lato-Light";
+    color: #333333;
+}
+.container5-2  {
+    width: 178px;
+    height: 76px;
+    position: absolute;
+    left: 277px;
+    top: 30px;
+}
+.container5-2 h1 {
+    font-size: 22px;
+    font-family: "Lato-Regular";
+    color: #333333;
+}
+.container5-2 p {
+    font-size: 18px;
+    font-family: "Lato-Light";
+    color: #333333;
 }
