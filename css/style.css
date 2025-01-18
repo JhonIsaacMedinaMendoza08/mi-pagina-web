@@ -10,26 +10,32 @@
     width: 1440px;
     height: 1024px;
     background-color: transparent;
-    border: 3px;
+    border: 0px;
     border-style: solid;
     border-color: #000000;
     margin: 0 auto;
 }   
-
 .container2 {
     width: 1309px;
     height: 136px;
-    background-color: #61c702;
+    background-color: transparent;
     border: 2px;
     border-style: solid;
     position: absolute;
     left: 295px;
     top: 70px;
 }
+.container2 h1 {
+    font-family: "Poppins-Bold";
+    font-size: 72px;
+    color: #333333;
+    text-align: center;
+    margin-top: 10px;
+}
 .container3 {
     width: 656px;
     height: 760px;
-    background-color: #61c702;
+    background-color: transparent;
     border: 2px;
     border-style: solid;
     position: absolute;
@@ -39,18 +45,82 @@
 .container3-1 {
     width: 541px;
     height: 338px;
-    background-color: #c72902;
+    background-color: transparent;
     margin-top: 45px;
     margin-left:55px;
     margin-bottom: 64px;
 }
+.container3-1 h1 {
+    font-family: "Poppins-Medium";
+    font-size: 48px;
+    line-height: 61px;
+    color: #333333;
+    margin-bottom: 24px;
+}
+.container3-1 p {
+    font-family: "Poppins-Regular";
+    font-size: 24px;
+    line-height: 34px;
+    color: #333333;
+    margin-bottom: 24px;
+}
+.container3-1 button {
+    width: 301px;
+    height: 66px;
+    background-color: #333333;
+    box-shadow: 10px 10px 1px #000000; /* Sombra */
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-family: "Poppins-Medium";
+    font-size: 22px;
+    color: #ffffff;
+}
 .container3-2 {
     width: 458px;
     height: 264px;
-    background-color: #c72902;
-
+    background-color: transparent;
+    border: 2px;
+    border-style: solid;
+    border-radius: 32px;
     margin-left:55px;
+}
+.container3-2-1 {
+    width: 165px;
+    height: 216px;
+    background-color: transparent;
+    position: absolute;
+    left: 91px;
+    top: 472px;
+}
+.container3-2-1 h1 {
+    font-family: "Poppins-SemiBold";
+    font-size: 22px;
+}
+.Rectangle {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.container3-2-1 p {
+    font-family: "Poppins-Light";
+    font-size: 14px;
+}
+.container3-2-2 {
+    width: 165px;
+    height: 216px;
+    background-color: transparent;
+    position: absolute;
+    left: 312px;
+    top: 472px;
+}
+.container3-2-1 h1 {
+    font-family: "Poppins-SemiBold";
+    font-size: 22px;
+}
 
+.container3-2-1 p {
+    font-family: "Poppins-Light";
+    font-size: 14px;
 }
 .container4 {
     width: 656px;
@@ -60,6 +130,20 @@
     position: absolute;
     left: 948px;
     top: 204px;
+}
+.container4 h1 {
+    width: 113px;
+    height: 96px;
+    font-family: "Poppins-SemiBold";
+    font-size: 22px;
+    position: absolute;
+    left: 115px;
+    top: 80px;
+}
+.Star {
+    position: absolute;
+    top: 10px;
+    left: 45px;
 }
 .imageRight {
     position: absolute;
