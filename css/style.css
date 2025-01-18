@@ -5,15 +5,12 @@
     padding: 0;
     box-sizing: border-box; 
     background-color: #FBF4DF;
-
 }
-
-
 .container1 {
     width: 1440px;
     height: 1024px;
     background-color: transparent;
-    border: 3px;
+    border: 0px;
     border-style: solid;
     border-color: #000000;
     margin: 0 auto;
@@ -25,17 +22,92 @@
     margin-left: 800px;
     margin-top: 50px;
 }
-
-
+.Star {
+    position: absolute;
+    top: 100px;
+    left: 330px;
+}
+.Asterisk {
+    background-color: transparent;
+    position: absolute;
+    top: 650px;
+    left: 1520px;
+}
 .container2 {
     width: 651px;
     height: 457px;
-    background-color: #61c702;
+    background-color: transparent;
     position: absolute;
     left: 310px;
     top: 200px;
 }
-
+.container2 h1 {
+    width: 515px;
+    height: 154px;
+    background-color: transparent;
+    color: #333333;
+    margin-left: 70px;
+    margin-top: 50px;
+    font-size: 64px;
+    font-family: "Lato-Bold";
+    margin-bottom: 60px;
+}
+/*BORDE DE TEXTO PRINCIPAL */
+.container2 h2 {
+    width: 627px;
+    height: 223px;
+    background-color: transparent;
+    border: 2px;
+    border-style: solid;
+    border-color: #333333;
+    position: absolute;
+    left: 12px;
+    top: 15px;
+    margin-bottom: 104px;
+}
+.container2 p {
+    width: 558px;
+    height: 96px;
+    background-color: transparent;
+    color: #333333;
+    line-height: 32px;
+    font-family: "Lato-Regular";
+    font-size: 24px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+.container2 button {
+    width: 222px;
+    height: 66px;
+    background-color: #333333;
+    color: #ffffff;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 22px;
+    font-family: "Lato-Regular";
+    margin-left: 45px;
+}
+.Rectangle1 {
+    position: absolute;
+    left: 2px;
+    top: 5px;
+}
+.Rectangle2 {
+    position: absolute;
+    left: 2px;
+    top: 223px;
+}
+.Rectangle3 {
+    position: absolute;
+    left: 625px;
+    top: 5px;
+}
+.Rectangle4 {
+    position: absolute;
+    left: 625px;
+    top: 223px;
+}
 .container3 {
     width: 1270px;
     height: 152px;
@@ -52,35 +124,86 @@
 .container3-1 {
     width: 153px;
     height: 104px;
-    background-color: #f84646;
+    background-color: transparent;
     position: absolute;
     left: 80px;
     top: 20px;
 }
+.container3-1 h1{
+    font-size: 32px;
+    font-family: "Lato-Bold";
+    color: #100201;
+    margin-bottom: 5px;
+    background-color: transparent;
+}
+.container3-1 p{
+    font-size: 24px;
+    font-family: "Lato-Light";
+    color: #100201;
+    background-color: transparent;
+}
+
 
 .container3-2 {
     width: 153px;
     height: 104px;
-    background-color: #f84646;
+    background-color: transparent;
     position: absolute;
     left: 399px;
     top: 20px;
 }
-
+.container3-2 h1{
+    font-size: 32px;
+    font-family: "Lato-Bold";
+    color: #100201;
+    margin-bottom: 5px;
+    background-color: transparent;
+}
+.container3-2 p{
+    font-size: 24px;
+    font-family: "Lato-Light";
+    color: #100201;
+    background-color: transparent;
+}
 .container3-3 {
     width: 153px;
     height: 104px;
-    background-color: #f84646;
+    background-color: transparent;
     position: absolute;
     left: 718px;
     top: 20px;
 }
-
+.container3-3 h1{
+    font-size: 32px;
+    font-family: "Lato-Bold";
+    color: #100201;
+    margin-bottom: 5px;
+    background-color: transparent;
+}
+.container3-3 p{
+    font-size: 24px;
+    font-family: "Lato-Light";
+    color: #100201;
+    background-color: transparent;
+}
 .container3-4 {
     width: 153px;
     height: 104px;
-    background-color: #f84646;
+    background-color: transparent;
     position: absolute;
     left: 1037px;
     top: 20px;
+}
+.container3-4 h1{
+    font-size: 32px;
+    font-family: "Lato-Bold";
+    color: #100201;
+    margin-bottom: 5px;
+    background-color: transparent;
+}
+.container3-4 p{
+    font-size: 24px;
+    font-family: "Lato-Light";
+    color: #100201;
+    background-color: transparent;
 }
