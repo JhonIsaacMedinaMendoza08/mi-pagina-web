@@ -5,5 +5,91 @@
     padding: 0;
     box-sizing: border-box; 
     /*background-color: #AB2706;*/
+}
+.container1 {
+    width: 1440px;
+    height: 1024px;
+    background-color: transparent;
+    border: 0px;
+    border-style: solid;
+    border-color: #000000;
+    margin: 0 auto;
+}  
+.ImagePrincipal {
+    position: absolute;
+    top: 60px;
+    left: 880px;
+}
+.Tags {
+    position: absolute;
+    top: 60px;
+    left: 1070px;
+}
+.Rainbow {
+    position: absolute;
+    top: 70px;
+    left: 300px;
+}
+.Socialmedia {
+    position: absolute;
+    top:940px;
+    left: 300px;
+}
+
+.container2 {
+    width: 525px;
+    height: 350px;
+    background-color: transparent;
+    position: absolute;
+    left: 295px;
+    top: 200px;
+}
+.container2 h1 {
+    font-size: 56px;
+    font-family: "ZillaSlab-Bold";
+    color: #333333;
+    margin-bottom: 24px;
+}
+.container2 p {
+    font-size: 24px;
+    font-family: "Inter-Regular";
+    color: #252525;
+    margin-bottom: 24px;
+    line-height: 34px;
+}
+.container2 button {
+    width: 200px;
+    height: 66px;
+    background-color: #202020;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 22px;
+    font-family: "Inter-Medium";
+    color: #ffffff;
+
+}
+.container3 {
+    width: 525px;
+    height: 185px;
+    background-color: transparent;
+    box-shadow: 10px 10px 1px #333333; /* Sombra */
+    border: 2px;
+    border-style: solid;
+    position: absolute;
+    left: 295px;
+    top: 630px;
+}
+.container3 p {
+    width: 477px;
+    height: 137px;
+    background-color: #333333;
+    color: #ffffff;
+    font-family: "Inter-LightItalic";
+    font-size: 15px;
+    line-height: 21px;
+    margin: auto;
+    padding: 16px;
+    margin-top: 22px;
 
 }
