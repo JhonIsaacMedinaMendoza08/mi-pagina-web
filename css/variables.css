@@ -9,14 +9,14 @@ font-family: "Roboto-Mono-Bold";
 src: url(../storage/font/Roboto-Mono/RobotoMono-Bold.ttf);
 }
 @font-face {
-font-family: "WorkSans-Light";
-src: url(../storage/font/Work_Sans/WorkSans-Light.ttf);
+font-family: "Roboto-Mono-Regular";
+src: url(../storage/font/Roboto-Mono/RobotoMono-Regular.ttf);
 }
 @font-face {
-font-family: "WorkSans-Medium";
-src: url(../storage/font/Work_Sans/WorkSans-Medium.ttf);
+font-family: "Roboto-Mono-Medium";
+src: url(../storage/font/Roboto-Mono/RobotoMono-Medium.ttf);
 }
 @font-face {
-font-family: "Montserrat-SemiBold";
+font-family: "Roboto-Mono-SemiBold";
 src: url(../storage/font/Montserrat/Montserrat-SemiBold.ttf);
 }
