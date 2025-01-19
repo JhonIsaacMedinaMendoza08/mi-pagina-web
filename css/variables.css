@@ -5,8 +5,8 @@
     --color-4: #FFFFFF;
 }
 @font-face {
-font-family: "WorkSans-Bold";
-src: url(../storage/font/Work_Sans/WorkSans-Bold.ttf);
+font-family: "Roboto-Mono-Bold";
+src: url(../storage/font/Roboto-Mono/RobotoMono-Bold.ttf);
 }
 @font-face {
 font-family: "WorkSans-Light";

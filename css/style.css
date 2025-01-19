@@ -4,6 +4,40 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box; 
-    /*background-color: #AB2706;*/
+    background-color: #111111
+}
 
+.container1 {
+    width: 1312px;
+    height: 896px;
+    background-color: transparent;
+    border: 3px;
+    border-style: solid;
+    border-color: #000000;
+    margin: 0 auto;
+}  
+
+.container2 {
+    width: 1187px;
+    height: 559px;
+    background-color: #61c702;
+    position: absolute;
+    left: 370px;
+    top: 190px;
+}
+.container2 h1 {
+    font-family: "Roboto-Mono-Bold";
+    font-size: 104px;
+    background-color: transparent;
+    color: #ffffff;
+    margin-bottom: 48px;
+
+}
+.container3 {
+    width: 954px;
+    height: 252px;
+    background-color: #c73002;
+    position: absolute;
+    left: 490px;
+    top: 497px;
 }
